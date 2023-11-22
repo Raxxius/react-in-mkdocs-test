@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: React in Material for MKDocs test
+
+theme:
+  name: material
