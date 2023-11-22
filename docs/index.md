@@ -1,13 +1,10 @@
-# Welcome to MkDocs
+# React in Material for MKDocs test
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Full Documentation to follow
 
-## Commands
+## Overview
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The purpose of this website is to test the functionality of putting a React component directly into Material for MKDocs
 
 ## Project layout
 
