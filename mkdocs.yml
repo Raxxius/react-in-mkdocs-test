@@ -2,3 +2,6 @@ site_name: React in Material for MKDocs test
 
 theme:
   name: material
+
+extra_css:
+  - /assets/static/css/main.c210bbeb.css

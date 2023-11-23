@@ -6,9 +6,12 @@ Full Documentation to follow
 
 The purpose of this website is to test the functionality of putting a React component directly into Material for MKDocs
 
-## Project layout
+Current methodology uses an iframe to view a react webpage within the MKDocs webpage
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## New Methodology
+
+<div id="root"></div>
+<script src="/assets/static/js/main.b89ba1c6.js"></script>
+
+
+
